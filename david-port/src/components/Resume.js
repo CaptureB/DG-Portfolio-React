@@ -1,7 +1,7 @@
 import Header from "./Header";
 import React from "react";
 import ResumePic from '../assets/ResumePicPort.JPG'
-
+// importing my resume with picture
 
 function Resume() {
    return (

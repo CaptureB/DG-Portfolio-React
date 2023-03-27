@@ -1,3 +1,5 @@
+// Imports all components acts as home base for page
+
 import './App.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import David from './assets/me.jpg';
@@ -6,7 +8,6 @@ import Projects from "./components/Project";
 import Resume from "./components/Resume";
 import ContactMe from "./components/ContactMe";
 import Footer from "./components/Footer";
-import Layout from './components/Layout';
 
 
 function App() {

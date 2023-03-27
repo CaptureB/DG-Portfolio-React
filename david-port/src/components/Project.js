@@ -1,3 +1,4 @@
+// importing the pictures for projects with links below
 import Header from "./Header";
 import DogAdopt from "../assets/Homepage.png"
 import "../style/projects.css"

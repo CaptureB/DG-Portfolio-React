@@ -1,6 +1,8 @@
+// creating the header for to navigate pages
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import "../style/Header.css";
+// importing icons for ease of use
 import ReorderIcon from "@mui/icons-material/Reorder";
 
 function Header() {
