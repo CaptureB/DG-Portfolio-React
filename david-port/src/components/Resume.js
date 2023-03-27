@@ -2,6 +2,7 @@ import Header from "./Header";
 import React from "react";
 import ResumePic from '../assets/ResumePicPort.JPG'
 
+
 function Resume() {
    return (
     <div>

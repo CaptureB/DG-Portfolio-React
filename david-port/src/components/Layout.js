@@ -22,7 +22,7 @@ function Layout() {
                 <Link to="/contactMe"> Contact </Link>
                 <Link to="/resume"> Resume </Link>
             </div>
-            <div className='home'>
+            {/* <div className='home'>
         <div className='aboutMe'>
           <h2> Hello, My name is David</h2>
           <div className='uponload'>
@@ -39,7 +39,7 @@ function Layout() {
       <div className='picture'>
         <h1> </h1>
         <img src={David} alt ="" />
-      </div>
+      </div> */}
         </div>
     )
 }
