@@ -1,5 +1,5 @@
 // importing the pictures for projects with links below
-import Header from "./Header";
+
 import DogAdopt from "../assets/Homepage.png"
 import "../style/projects.css"
 import Bops from "../assets/bops.png"
@@ -11,7 +11,6 @@ import TeamGen from "../assets/teamgen.JPG"
 function Projects() {
     return (
         <div>
-            <Header></Header>
             <div className="projects">
                 <div className="projectsdsc">
                     <h2>

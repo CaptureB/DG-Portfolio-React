@@ -2,7 +2,7 @@
   "name": "david-port",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://CaptureB.github.io/my-app",
+  "homepage": "https://CaptureB.github.io/DG-Portfolio-React",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",

@@ -8,14 +8,16 @@ import Projects from "./components/Project";
 import Resume from "./components/Resume";
 import ContactMe from "./components/ContactMe";
 import Footer from "./components/Footer";
+import Header from './components/Header';
 
 
 function App() {
   return (
     <div className="App">
       <Router>
+        <Header/>
         <Routes>
-          <Route path="/" element ={<Home />}/>
+          {/* <Route path="/" element ={<Home />}/> */}
           <Route path="/projects" element ={<Projects />}/>
           <Route path="/resume" element ={<Resume />}/>
           <Route path="/contactMe" element ={<ContactMe />}/>

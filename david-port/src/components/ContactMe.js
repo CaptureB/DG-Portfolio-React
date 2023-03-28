@@ -50,7 +50,6 @@ function ContactMe() {
     //   Creates the form for contact me along with header
     return (
         <div>
-            <Header></Header>
         <form className="contact-form" onSubmit={handleSumbit} >
           <div className="form-field">
             <label htmlFor="name">Name:</label>

@@ -1,4 +1,3 @@
-import Header from "./Header";
 import React from "react";
 import ResumePic from '../assets/ResumePicPort.JPG'
 // importing my resume with picture
@@ -6,7 +5,6 @@ import ResumePic from '../assets/ResumePicPort.JPG'
 function Resume() {
    return (
     <div>
-        <Header></Header>
         <div className="resume">
             <div className="resumedesc">
                 <h2>
