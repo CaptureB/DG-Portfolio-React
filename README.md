@@ -21,6 +21,7 @@ The user can clone the repo and type npm i in the terminal to download all packa
 
 ## Usage
 This application is used for employeers to see my current work.
+The link to the finished application can be found hereL https://captureb.github.io/DG-Portfolio-React/
 
 ## License
 None
