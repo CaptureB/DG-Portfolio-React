@@ -7,6 +7,7 @@ import PassGen from "../assets/passgen.png"
 import ORM from "../assets/orm.png"
 import MYSQL from "../assets/MYSQL.JPG"
 import TeamGen from "../assets/teamgen.JPG"
+import OverUnder21 from "../assets/OverUnder21Home.JPG"
 
 function Projects() {
     return (
@@ -27,8 +28,8 @@ function Projects() {
                     <a href="https://captureb.github.io/PasswordGenerator/">
                         <img src={PassGen} alt=""></img>
                     </a>
-                    <a href="https://github.com/CaptureB/Object-Relational-Mapping-ORM-">
-                        <img src={ORM} alt=""></img>
+                    <a href="https://over-under-21.herokuapp.com/">
+                        <img src={OverUnder21} alt=""></img>
                     </a>
                     <a href="https://github.com/CaptureB/Employee-Tracker--Mysql">
                         <img src={MYSQL} alt=""></img>
